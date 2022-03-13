@@ -1,0 +1,54 @@
+.titulo{
+    color : green;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    display:block;
+    margin: 0 auto;
+
+
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.caixa{
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.titulo{
+    color: green !important;
+    font-weight: bold !important;
+    text-decoration: none;
+}
+
+.botao{
+    border-color: green !important;
+    background-color: white !important;
+    color: green !important;
+   }
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.postagens{
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.imagem2{
+    background-image: url(https://static.wikia.nocookie.net/logopedia/images/2/2f/Palmeiras-1914-1.png/);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: 400px;
+    background-position: center;
+    background-color: #ffffff;
+    }

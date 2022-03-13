@@ -1,0 +1,21 @@
+.txt1{
+    color: green !important;
+    font-weight: bold !important;
+    text-decoration: none
+}
+
+.imagem{
+    background-image: url(https://static.wikia.nocookie.net/logopedia/images/2/2f/Palmeiras-1914-1.png/);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: 400px;
+    background-position: center;
+    background-color: #ffffff;
+
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+
+    

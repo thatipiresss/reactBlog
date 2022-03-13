@@ -1,0 +1,34 @@
+.imagem2{
+    background-image: url(https://i2.wp.com/multarte.com.br/wp-content/uploads/2020/09/logomarca-palmeiras3.jpg?resize=600%2C600&ssl=1);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.txt2{
+    color: green !important;
+    font-weight: bold !important;
+    text-decoration: none
+}
+
+.caixa{
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.btCancelar{
+    border-color: red !important;
+    background-color: red !important;
+    color: white !important;
+}
+
+.btCadastrar{
+    margin-right: 20px !important;
+    border-color: green !important; 
+    background-color: green !important;
+    color: white !important;
+}

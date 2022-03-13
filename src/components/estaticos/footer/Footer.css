@@ -1,0 +1,34 @@
+.box1{
+    background-color: #ffffff;
+     height: 120px;
+}
+
+.box2{
+    background-color: #ffffff;
+     height: 60px;
+}
+
+.txt {
+    color: green !important;
+    font-weight: bold !important;
+}
+
+.fb{
+    font-size: 60px !important  ;
+    color: blue;
+}
+
+.ig{
+    font-size: 60px !important;
+    color: red;
+}
+
+.lk{
+    font-size: 60px !important;
+    color: cornflowerblue;
+}
+
+.git{
+    font-size: 60px !important;
+    color: black;
+}
